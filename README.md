@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src=""C:\Users\User\OneDrive\Pictures\Downloaded Pictures\GitHub Banner.png"" alt="Hello world">
+<img src="GitHub Banner .png" alt="Hello world">
 
 <br/>
 
