@@ -18,12 +18,12 @@
 <!--- about --->
 - 👋 Hi, I’m **[@tajwar-hub](https://github.com/tajwar-hub)**
 - 🖥️ I’m currently working on **React.js, Tailwind.css and Typescript** for frontend development.
-- 📫 Feel free to reach me out **[Email](ahmedtajwarrhythm@gmail.com)**
+- 📫 Feel free to reach me out **[ahmedtajwarrhythm@gmail.com](ahmedtajwarrhythm@gmail.com)**
   
 <br/>
 
 <!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
   <p align="left">
