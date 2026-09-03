@@ -7,9 +7,9 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block"> Hello Everyone! I'm Ahmed Tajwar Rhythm</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full-Stack-Web-Development+Learner+@PH;Passionate+Full+Stack+Web+Development+ Learner;JavaScript+TypeScript+Tailwind+React+Enthusiast;Interested+in+Cyber+Security+Artificial+Intelligence+Machine+Learning
-" alt="Typing SVG" /></a>
+
+ 
+   
   </ul>
 </div>
 
@@ -52,14 +52,7 @@
 <br/>
 
 <!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/tajwar-hub/contribution-snake/blob/output/grid.svg)
-
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=tajwar-hub&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajwar-hub&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
 ### Repository Stats & Streak:
