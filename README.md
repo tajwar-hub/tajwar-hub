@@ -1,62 +1,110 @@
-<!--- banner --->
 <img src="GitHub Banner .png" alt="Hello world">
 
 <br/>
 
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"> Hello Everyone! I'm Ahmed Tajwar Rhythm</h1></summary>
+<div align="center">
 
- 
-   
-  </ul>
+# Hi, I'm Ahmed Tajwar Rhythm
+
+### Aspiring Full Stack Web Engineer | React & Next.js Developer
+
+Building modern, responsive web applications and exploring AI-Driven Software Engineering.
+
+
 </div>
 
-<br/>
+---
 
-<!--- about --->
-- 👋 Hi, I’m **[@tajwar-hub](https://github.com/tajwar-hub)**
-- 🖥️ I’m currently working on **React.js, Tailwind.css and Typescript** for frontend development.
-- 📫 Feel free to reach me out **[ahmedtajwarrhythm@gmail.com](ahmedtajwarrhythm@gmail.com)**
+## About Me
+
+- I'm a Computer Science and Engineering student learning full stack web development.
+- I'm currently building web applications using **React.js, Next.js, TypeScript, Tailwind CSS, HeroUI and DaisyUI**.
+- I've worked with **Better Auth** for authentication and **MongoDB Atlas** for database management.
+- I'm continuously trying to improve my programming, problem-solving and software development skills.
+- For now, My goal is to become a professional **Full Stack AI-Driven Web Engineer**.
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/tajwar-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   
+  <a href="mailto:ahmedtajwarrhythm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="HTML, CSS, JavaScript, TypeScript"/>
+  </a>
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS"/>
+  </a>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+</p>
+
+### Backend, Authentication & Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Better%20Auth-111111?style=flat&logo=auth0&logoColor=white" alt="Better Auth"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  </a>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,vercel" alt="Git, GitHub, VS Code, Windows, Vercel"/>
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/tajwar-hub">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tajwar-hub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/tajwar-hub">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajwar-hub&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
+</a>
+
 <br/>
 
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b> FOLLOW ME ON SOCIALS:</b>
+<a href="https://streak-stats.demolab.com/?user=tajwar-hub">
+  <img src="https://streak-stats.demolab.com/?user=tajwar-hub&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
-<div>
-  <p align="left">
-    
-  </p>
 </div>
 
-<br/>
+---
 
-<!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+<div align="center">
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/tajwar-hub)
-
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/tajwar-hub)
-
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react)](https://github.com/tajwar-hub)
+### Thanks for visiting my profile!
 
 
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/tajwar-hub)
+*Always learning. Always building. Always improving.*
 
-<br/>
 
-<!--- statistics --->
-
-| ------------- | ------------- |
-
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=tajwar-hub&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=tajwar-hub" /></a> |
-| ------------- | ------------- |
-
-<br/>
+</div>
