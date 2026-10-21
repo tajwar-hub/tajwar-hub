@@ -1,4 +1,4 @@
-<img src="GitHub Banner .png" alt="Hello world">
+<img src="Modern Blue Full Stack Developer Banner.png" alt="Hello world">
 
 <br/>
 
